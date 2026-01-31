@@ -1,0 +1,2 @@
+# Medicore
+hospital management system
